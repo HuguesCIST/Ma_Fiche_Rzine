@@ -1,8 +1,8 @@
-# Titre de ma Fiche Rzine [<img src="https://rzine.fr/img/Rzine_logo.png"  align="right" width="120"/>](http://rzine.fr/)
-### Sous-Titre de ma Fiche Rzine
-**Prénom Nom (affiliation.s)**
+# Titre fiche [<img src="https://rzine.fr/img/Rzine_logo.png"  align="right" width="120"/>](http://rzine.fr/)
+### Sous-titre fiche
+**Auteur.e.s (affiliation.s)**
 <br/>  
-Pour consulter cette fiche Rzine vous pouvez cliquer [**ici**](https://rzine-reviews.github.io/Rzine_correlation/)
+Pour consulter cette fiche Rzine vous pouvez cliquer [**ici**]()
 
 
 <br/>  
